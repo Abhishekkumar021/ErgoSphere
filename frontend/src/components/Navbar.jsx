@@ -230,7 +230,7 @@ export default function Navbar() {
 
                 {/* Desktop nav links */}
                 <div className="hidden md:flex space-x-8 text-lg font-medium text-gray-300">
-                    <Link to="/" className="hover:text-white transition">Ask</Link>
+                    <Link to="/ask" className="hover:text-white transition">Ask</Link>
                     <Link to="/dashboard" className="hover:text-white transition">Dashboard</Link>
                     <Link to="/upload" className="hover:text-white transition">Upload</Link>
                 </div>

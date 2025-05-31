@@ -42,6 +42,7 @@ export default function App() {
       <div className="pt-24">
         <Routes>
           <Route path="/" element={<Home />} />
+          <Route path="/ask" element={<Home />} />
           <Route path="/upload" element={<Upload />} />
           <Route path="/dashboard" element={<Dashboard />} />
         </Routes>
