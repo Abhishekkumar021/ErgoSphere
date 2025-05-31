@@ -152,5 +152,8 @@ Displays AI-generated answer from RAG backend
 
 ### 📸 Screenshots
 -   📤 Upload Interface
+![Upload Page Screenshot](https://github.com/Abhishekkumar021/ErgoSphere/blob/4235e62fe34a86faf0afc996dd137480e9660a17/Screenshots/Upload-page.png)
 -   📚 Dashboard
+![Dashboard Page Screenshot](https://github.com/Abhishekkumar021/ErgoSphere/blob/4235e62fe34a86faf0afc996dd137480e9660a17/Screenshots/Dashboard-page.png)
 -   💬 Q&A Interface
+![QA Page Screenshot](https://github.com/Abhishekkumar021/ErgoSphere/blob/4235e62fe34a86faf0afc996dd137480e9660a17/Screenshots/QA-page.png)
