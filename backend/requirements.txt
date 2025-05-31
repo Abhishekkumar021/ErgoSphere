@@ -1,0 +1,10 @@
+djangorestframework,
+markdown,
+django-filter,
+chromadb,
+PyMuPDF,
+python-docx,
+dotenv,
+mistralai,
+mysqlclient,
+sentence-transformers
